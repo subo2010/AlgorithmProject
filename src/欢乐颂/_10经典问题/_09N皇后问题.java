@@ -36,7 +36,7 @@ public class _09N皇后问题 {
 	@Test
 	public void main() {
 		// n皇后问题的解决方案
-		solveNQueens(4);
+		solveNQueens(5);
 	}
 	
 	public void solveNQueens(int n)	{
